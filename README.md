@@ -27,6 +27,4 @@ This project uses [appauth.io](https://appauth.io) based on the electron app sam
 
 ### Welcome improvements
 
-1. Local storage to properly retrieve user tokens from prior logins to make token requests based on prior authorization
-
-2. Auth react hook to get the current logged in status
+1. Auth react hook to get the current logged in status
